@@ -10,8 +10,8 @@ $config = array(
     "username"         => "TABITHA NJOGU",
     "TransactionType"  => "CustomerPayBillOnline",
     "passkey"          => "bfb279f9aa9bdbcf158e97dd71a467cd2e0c893059b10f78e6b72ada1ed2c919", 
-    "CallBackURL"     => "https://172.16.9.139/b/response.php",
-    "AccountReference" => "4091515",
+    "CallBackURL"     => "https://cryptic-inlet-69952.herokuapp.com/response.php",
+    "AccountReference" => "Mulikaa Afya Na Chapaa",
     "TransactionDesc"  => "Online Payment" ,
 );
 
